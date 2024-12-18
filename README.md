@@ -45,3 +45,5 @@ ProplistApi offers several API routes for managing property listings:
 ## Code Quality
 
 The project prioritizes clean and readable code with meaningful variable names, enhancing maintainability and understanding.
+
+PS: more dummy data was added to the one provided.
